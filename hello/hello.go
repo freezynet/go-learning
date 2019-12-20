@@ -1,7 +1,7 @@
 package hello
 
-func CallFromHello) string {
-	return "Hello nigga"
+func CallFromHello() string {
+	return " Hello nigga "
 }
 
 
