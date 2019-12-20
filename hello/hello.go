@@ -1,7 +1,7 @@
-package say
+package hello
 
 func CallFromHello) string {
-	return "Hello pidar"
+	return "Hello nigga"
 }
 
 
